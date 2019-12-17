@@ -7,7 +7,7 @@ HEllo
 
 ## Purpose
 
-Sample website with plenty of files for demos
+To find one 
 
 ## How to contribute
 Space needed here
